@@ -1,3 +1,12 @@
+## 🔄 Project Lifecycle
+**Step 1: Data Cleaning (Current Repository)** ⬅️
+This stage focused on transforming raw, messy data into a standardized format.
+
+
+**Step 2: [Exploratory Data Analysis (EDA)](LINK_TO_EDA_REPO)** ➡️
+Once cleaned, the data was moved to the EDA stage to uncover global layoff trends and business insights.
+
+
 # SQL-Data-Cleaning-Global-Layoffs-Dataset
 Raw data is rarely ready for analysis. This project focuses on the end-to-end Data Cleaning and Data Transformation of a global layoffs dataset using MySQL. The goal was to take a messy raw file and create a structured, accurate, and usable dataset for future exploratory data analysis (EDA).
 The 4-Stage Cleaning Process
